@@ -1,1 +1,1 @@
-<a href="https://app.daily.dev/habibulloxon"><img src="https://api.daily.dev/devcards/aac373f604bd4e3bbddf9962177b6e19.png?r=64n" width="400" alt="Habibulloxon's Dev Card"/></a>
+
