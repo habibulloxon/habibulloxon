@@ -1,4 +1,4 @@
-![Twitter](https://pbs.twimg.com/profile_banners/1767120650043314176/1710151355/1080x360)
+![Twitter](https://pbs.twimg.com/profile_banners/1767120650043314176/1710152459/1080x360)
 ## Welcome to my GitHub! 🦾
 
 I'm Habibulloxon, an enthusiastic computer science student with a solid foundation in web development, currently studying at Webster University in Tashkent. Interested in business process automation using AI.
