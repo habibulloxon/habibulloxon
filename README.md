@@ -2,6 +2,7 @@
 
 ### 🙋‍♂️ Connect with me
 - Telegram [@habib_khx](https://t.me/habib_khx)
+- LinkedIn [@habibulloxon](https://www.linkedin.com/in/habibulloxon-xayrulloxo-jayev-84b722283/)
 
 ## 🛠️ My favorite tools
 
