@@ -20,7 +20,7 @@ I'm Habibulloxon, an enthusiastic computer science student with a solid foundati
 
 ### 🗄️ Databases
 
-[![Databases](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=sqlite,mysql)](https://skillicons.dev)
 
 ### ☁ Cloud hosting
 [![Cloud hosting](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev)
