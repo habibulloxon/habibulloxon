@@ -6,6 +6,7 @@ I'm Habibulloxon, an enthusiastic computer science student with a solid foundati
 ### 🙋‍♂️ Connect with me
 - Telegram [@habib_khx](https://t.me/habib_khx)
 - LinkedIn [@habibulloxon](https://www.linkedin.com/in/habibulloxon-xayrulloxo-jayev-84b722283/)
+- LeetCode [@khabibullokhon](https://leetcode.com/u/khabibullokhon/)
 
 ## 🛠️ My favorite tools
 
