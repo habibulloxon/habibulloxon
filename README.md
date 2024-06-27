@@ -24,7 +24,9 @@ I'm Habibulloxon, an enthusiastic computer science student with a solid foundati
 [![Databases](https://skillicons.dev/icons?i=sqlite,mysql)](https://skillicons.dev)
 
 ### ☁ Cloud hosting
-[![Cloud hosting](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev)
+[![Cloud hosting](https://skillicons.dev/icons?i=vercel,netlify,aws)](https://skillicons.dev)
+- AWS Lambda
+- AWS EC2
 
 ### 💻 Software and tools
 [![Software and tools](https://skillicons.dev/icons?i=git,vscode,figma,notion)](https://skillicons.dev)
