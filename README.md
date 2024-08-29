@@ -13,11 +13,11 @@ I'm Habibulloxon, an enthusiastic computer science student with a solid foundati
 
 ### 👨‍💻 Programming Languages
 
-[![Programming Languages](https://skillicons.dev/icons?i=js,go)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=php,js,go)](https://skillicons.dev)
 
 ### 🧰 Frameworks and libraries
 
-[![Frameworks and libraries](https://skillicons.dev/icons?i=react,nodejs,vite,nextjs,bootstrap,tailwind)](https://skillicons.dev)
+[![Frameworks and libraries](https://skillicons.dev/icons?i=laravel,react,nodejs,vite,nextjs,bootstrap,tailwind)](https://skillicons.dev)
 
 ### 🗄️ Databases
 
